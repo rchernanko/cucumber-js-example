@@ -1,3 +1,9 @@
+#To do this, I followed a Todd Anderson tutorial on the custard belly website:
+
+#https://www.custardbelly.com/blog/blog-posts/2014/01/08/bdd-in-js-cucumberjs/index.html
+
+#I've also saved this article in my evernote and bookmarks for future reference
+
 Feature: Shopper can add an item to their Grocery List
   As a grocery shopper
   I want to add an item to my grocery list
